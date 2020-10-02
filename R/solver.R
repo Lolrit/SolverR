@@ -10,6 +10,8 @@ solver <- function(x,y){
   z4 <- x / y
   z5 <- y / x
   z6 <- z/2
+  cat(" 
+      ")
   cat("X + Y =",z)
   cat(" 
       ")
