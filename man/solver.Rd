@@ -2,8 +2,7 @@
 % Please edit documentation in R/add.R
 \name{solver}
 \alias{solver}
-\title{It uses basic functions to calculate sum, differece, product, 
-             quoient, mean, exponential and logs}
+\title{Calc1.Solvwe}
 \usage{
 solver(x, y)
 }
