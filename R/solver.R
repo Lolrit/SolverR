@@ -4,15 +4,15 @@
 #' @param y second numeric variable
 solver <- function(x,y){
   z <- x + y
-  print(z)
+  print("X + Y = "z)
   z1 <- x - y
-  print(z1)
+  print("X - Y = "z1)
   z2 <- y - x
-  print(z2)
+  print("Y - X = "z2)
   z3 <- x * y
-  print(z3)
+  print("X * Y = "z3)
   z4 <- x / y
-  print(z4)
+  print("X / Y = "z4)
   z5 <- y / x
-  print(z5)
+  print("Y / X = "z5)
 }
