@@ -2,7 +2,8 @@
 % Please edit documentation in R/add.R
 \name{solver}
 \alias{solver}
-\title{does calculations}
+\title{It uses basic functions to calculate sum, differece, product, 
+             quoient, mean, exponential and logs}
 \usage{
 solver(x, y)
 }
@@ -12,5 +13,6 @@ solver(x, y)
 \item{y}{second numeric variable}
 }
 \description{
-does calculations
+It uses basic functions to calculate sum, differece, product, 
+             quoient, mean, exponential and logs
 }
