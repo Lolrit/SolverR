@@ -12,22 +12,22 @@ solver <- function(x,y){
   z6 <- z/2
   cat(" 
       ")
-  cat("X + Y =",z)
+  cat(x,"+",y,"=",z)
   cat(" 
       ")
-  cat("X - Y =",z1)
+  cat(x,"-",y,"=",z1)
   cat(" 
       ")
-  cat("Y - X =",z2)
+  cat(y,"-",x,"=",z2)
   cat(" 
       ")
-  cat("X * Y =",z3)
+  cat(x,"*",y,"=",z3)
   cat(" 
       ")
-  cat("X / Y =",z4)
+  cat(x,"/",y,"=",z4)
   cat(" 
       ")
-  cat("Y / X =",z5)
+  cat(y,"/",x,"=",z)
   cat(" 
       ")
   cat("Average =",z6)
