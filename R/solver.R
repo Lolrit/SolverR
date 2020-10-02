@@ -27,7 +27,7 @@ solver <- function(x,y){
   cat(x,"/",y,"=",z4)
   cat(" 
       ")
-  cat(y,"/",x,"=",z)
+  cat(y,"/",x,"=",z5)
   cat(" 
       ")
   cat("Average =",z6)
