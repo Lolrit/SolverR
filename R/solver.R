@@ -9,15 +9,24 @@ solver <- function(x,y){
   z3 <- x * y
   z4 <- x / y
   z5 <- y / x
+  z6 <- z/2
   cat("X + Y =",z)
-  print()
+  cat(" 
+      ")
   cat("X - Y =",z1)
-  cat(" ")
+  cat(" 
+      ")
   cat("Y - X =",z2)
-  cat(" ")
+  cat(" 
+      ")
   cat("X * Y =",z3)
-  cat(" ")
+  cat(" 
+      ")
   cat("X / Y =",z4)
-  cat(" ")
+  cat(" 
+      ")
   cat("Y / X =",z5)
+  cat(" 
+      ")
+  cat("Average =",z6)
 }
