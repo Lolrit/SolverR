@@ -2,7 +2,7 @@
 % Please edit documentation in R/add.R
 \name{solver}
 \alias{solver}
-\title{Calc1.Solvwe}
+\title{Calc1.Solver}
 \usage{
 solver(x, y)
 }
