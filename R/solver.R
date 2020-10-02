@@ -10,14 +10,14 @@ solver <- function(x,y){
   z4 <- x / y
   z5 <- y / x
   cat("X + Y =",z)
-  print("")
+  print()
   cat("X - Y =",z1)
-  print("")
+  print()
   cat("Y - X =",z2)
-  print("")
+  print()
   cat("X * Y =",z3)
-  print("")
+  print()
   cat("X / Y =",z4)
-  print("")
+  print()
   cat("Y / X =",z5)
 }
