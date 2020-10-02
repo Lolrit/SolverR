@@ -40,7 +40,7 @@ solver <- function(x,y){
   cat(x,"^",y,"=",z7)
   cat(" 
       ")
-  cat(y,"+",x,"=",z8)
+  cat(y,"^",x,"=",z8)
   cat(" 
       ")
     cat(x,"log(",y,") =",z9)
